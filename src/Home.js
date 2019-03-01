@@ -1,5 +1,5 @@
 import React from 'react';
 
-const Home = () => 'Home';
+const Home = () => <div>Home</div>;
 
 export default Home;
